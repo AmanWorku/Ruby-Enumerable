@@ -1,10 +1,3 @@
-
-<a name="readme-top"></a>
-
-<div align="center">
-  <h2><b>Enumerable</b></h2>
-</div>
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents

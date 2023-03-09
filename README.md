@@ -139,6 +139,6 @@ We would like to thank `Microverse` for providing us the resources that enabled 
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](https://github.com/AmanWorku/Ruby-Enumerable/blob/enumerable/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
